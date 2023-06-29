@@ -4,6 +4,8 @@
 
 Необходимые ссылки:
 
-Фронтенд: anastnaz.students.nomoreparties.sbs
-Бэкенд: api.anastnaz.students.nomoreparties.sbs
+[Фронтенд](anastnaz.students.nomoreparties.sbs)
+
+[Бэкенд](api.anastnaz.students.nomoreparties.sbs)
+
 IP: 51.250.95.240
