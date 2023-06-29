@@ -16,7 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && scp -Сr ./build/* anastasiia_n@51.250.95.240:/home/anastasiia_n/web-plus-pm2-deploy/frontend/build"
   },
   "eslintConfig": {
     "extends": [
