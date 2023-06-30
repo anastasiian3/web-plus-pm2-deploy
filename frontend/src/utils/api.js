@@ -130,6 +130,6 @@ class Api {
   }
 }
 // Замените на адрес вашего бэкенда
-const api = new Api("api.anastnaz.students.nomoreparties.sbs");
+const api = new Api("https://api.anastnaz.students.nomoreparties.sbs");
 
 export default api;
